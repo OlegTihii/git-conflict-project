@@ -4,6 +4,7 @@ public enum DocumentType {
 
     FIRST,
     SECOND,
-    THIRD
+    THIRD,
+    FOURTH
 
 }
