@@ -8,6 +8,7 @@ public enum DocumentType {
     FOURTH,
     FIFTH,
     SIXTH,
-    SEVENTH
+    SEVENTH,
+    EIGHTH
 
 }
