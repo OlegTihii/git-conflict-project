@@ -10,6 +10,7 @@ public enum DocumentType {
     SIXTH,
     SEVENTH,
     EIGHTH,
-    NINTH
+    NINTH,
+    TENTH
 
 }
