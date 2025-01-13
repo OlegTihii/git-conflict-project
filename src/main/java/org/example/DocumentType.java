@@ -6,6 +6,7 @@ public enum DocumentType {
     SECOND,
     THIRD,
     FOURTH,
-    FIFTH
+    FIFTH,
+    SIXTH
 
 }
