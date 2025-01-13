@@ -2,6 +2,6 @@ package org.example;
 
 public enum DocumentType {
 
-    FIRST
+    FIRST_1
 
 }
